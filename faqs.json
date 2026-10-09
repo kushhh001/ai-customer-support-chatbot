@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "questions": [
+      "hi",
+      "hello",
+      "hey",
+      "good morning",
+      "good evening",
+      "anyone there"
+    ],
+    "answer": "Hello! I am your AI assistant. How can I help you today?"
+  },
+  {
+    "id": 2,
+    "questions": [
+      "thank you",
+      "thanks",
+      "ok thanks",
+      "thx",
+      "great thanks",
+      "appreciate it"
+    ],
+    "answer": "You're very welcome! Let me know if you need help with anything else."
+  },
+  {
+    "id": 3,
+    "questions": [
+      "how to order",
+      "how do I place an order",
+      "buying a product",
+      "how to buy"
+    ],
+    "answer": "To place an order, browse our catalog, add items to your cart, and proceed to checkout with your payment details."
+  },
+  {
+    "id": 4,
+    "questions": [
+      "how to return my order",
+      "how to return an item",
+      "return policy",
+      "refund",
+      "send back order",
+      "can I return this"
+    ],
+    "answer": "You can return any unopened item within 30 days of purchase for a full refund."
+  },
+  {
+    "id": 5,
+    "questions": [
+      "how long does shipping take",
+      "when will my package arrive",
+      "delivery time",
+      "track order",
+      "shipping details"
+    ],
+    "answer": "Standard delivery takes 3 to 5 business days. Express delivery takes 1 to 2 business days."
+  },
+  {
+    "id": 6,
+    "questions": [
+      "reset password",
+      "forgot my password",
+      "cannot log in",
+      "account login issue"
+    ],
+    "answer": "Click 'Forgot Password' on the login screen and enter your registered email to receive a password reset link."
+  },
+  {
+    "id": 7,
+    "questions": [
+      "human support",
+      "talk to a representative",
+      "customer care phone number",
+      "support email"
+    ],
+    "answer": "You can contact our live support team at support@example.com or phone +1-800-555-0199 Monday through Friday."
+  }
+]
